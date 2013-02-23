@@ -13,7 +13,7 @@ It uses a custom build of [NuGet.Core.dll](https://github.com/mrward/nuget/tree/
 
 # Installation
 
-I am sure the author of the original port will eventually make an add-in repository url available but in the meantime (as this is only my *hack* branch)
+I am sure the author of the original port will eventually make an add-in repository url available (pull request sent) but in the meantime (as this is only a *hack* branch)
 you cand find the add-in package in the [pack](https://github.com/squidge/monodevelop-nuget-addin/tree/xs-nuget-addin/pack) directory so all you need to do is install it in XamarinStudio via the Add-in Manager.
 
 #License
